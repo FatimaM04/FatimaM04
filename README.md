@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**FatimaM04/FatimaM04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Fatima Mian
 
 About Me:
 
